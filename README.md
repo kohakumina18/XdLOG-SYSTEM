@@ -4,8 +4,9 @@
 XdLOG – HỆ THỐNG WEBSITE QUẢN LÝ CÔNG TÁC HỌC VỤ
 
  1.Tóm Lược Dự Án
-  Phát triển một nền tảng website với nhiều tính năng để hỗ trợ tập thể cán bộ, giáo viên, nhân viên trường THPT MNO là điều đang được đặc biệt quan tâm trong dự án lần này. Thông qua việc tạo dựng cơ sở để soạn giáo án; kiểm tra sĩ số, điểm danh lớp học; và tích hợp một số trò chơi được soạn bài bản, thú vị có khả năng tiếp cận, tương tác với học sinh một cách hiệu quả. 
- Nền tảng này được chúng tôi kì vọng sẽ đẩy nhanh các quy trình quản lý và giáo vụ cải thiện tương tác giữa giáo viên và học sinh; cải tiến hệ thông, thích ứng với thay đổi công nghệ của toàn ngành giáo dục.
+  
+Phát triển một nền tảng website với nhiều tính năng để hỗ trợ tập thể cán bộ, giáo viên, nhân viên trường THPT MNO là điều đang được đặc biệt quan tâm trong dự án lần này. Thông qua việc tạo dựng cơ sở để soạn giáo án; kiểm tra sĩ số, điểm danh lớp học; và tích hợp một số trò chơi được soạn bài bản, thú vị có khả năng tiếp cận, tương tác với học sinh một cách hiệu quả. 
+Nền tảng này được chúng tôi kì vọng sẽ đẩy nhanh các quy trình quản lý và giáo vụ cải thiện tương tác giữa giáo viên và học sinh; cải tiến hệ thông, thích ứng với thay đổi công nghệ của toàn ngành giáo dục.
  
 2.Mục Tiêu Dự Án
 - Cải thiện quá trình lưu trữ thông tin, chất lượng lớp học.
