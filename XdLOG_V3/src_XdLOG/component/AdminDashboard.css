@@ -1,0 +1,57 @@
+
+.AdminDashboard .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     background-color: #3B405D;
+     color: #fff;
+     padding: 6px;
+  
+}
+.AdminDashboard .top h1{
+    font-size: 18px;
+}
+.AdminDashboard .top h2{
+    font-size: 16px;
+    font-weight: thin;
+}
+
+.AdminDashboard .cent{
+    display: flex;
+}
+.AdminDashboard .cent .left {
+    padding: 20px;
+    height: 100vh;
+    background-color: #FACA84;
+    width: 15%;
+}
+.AdminDashboard .cent .left .leftBottom{
+    margin-top: 450px;
+}
+
+.AdminDashboard .cent .left .leftBottom ul li{
+    background-color:#E07A5F;
+    border-radius: 20px;
+    color: #3B405D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.AdminDashboard .cent .left .leftBottom ul li i{
+    margin-right: 10px;
+}
+.AdminDashboard .cent .left .dashboard a{
+    display:block;
+    background-color:#E07A5F;
+    border-radius: 20px;
+    color: #3B405D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.AdminDashboard .cent .left .dashboard a i{
+    margin-right: 10px;
+}
+.AdminDashboard .cent .left .leftBottom ul li{
+}
+.AdminDashboard .cent .right {
+    width: 85%;
+}

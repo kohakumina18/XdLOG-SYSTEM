@@ -1,0 +1,57 @@
+
+.bghDashboard .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     background-color: #3B405D;
+     color: #fff;
+     padding: 6px;
+  
+}
+.bghDashboard .top h1{
+    font-size: 18px;
+}
+.bghDashboard .top h2{
+    font-size: 16px;
+    font-weight: thin;
+}
+
+.bghDashboard .cent{
+    display: flex;
+}
+.bghDashboard .cent .left {
+    padding: 20px;
+    height: 100vh;
+    background-color: #FACA84;
+    width: 15%;
+}
+.bghDashboard .cent .left .leftBottom{
+    margin-top: 200px;
+}
+
+.bghDashboard .cent .left .leftBottom ul li{
+    background-color:#E07A5F;
+    border-radius: 20px;
+    color: #3B405D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.bghDashboard .cent .left .leftBottom ul li i{
+    margin-right: 10px;
+}
+.bghDashboard .cent .left .dashboard a{
+    display:block;
+    background-color:#E07A5F;
+    border-radius: 20px;
+    color: #3B405D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.bghDashboard .cent .left .dashboard a i{
+    margin-right: 10px;
+}
+.bghDashboard .cent .left .leftBottom ul li{
+}
+.bghDashboard .cent .right {
+    width: 85%;
+}

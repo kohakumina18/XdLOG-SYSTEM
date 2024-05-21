@@ -1,0 +1,56 @@
+
+.giaoVienDashboard .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     background-color: #3B405D;
+     color: #fff;
+     padding: 6px;
+  
+}
+.giaoVienDashboard .top h1{
+    font-size: 18px;
+}
+.giaoVienDashboard .top h2{
+    font-size: 16px;
+    font-weight: thin;
+}
+
+.giaoVienDashboard .cent{
+    display: flex;
+}
+.giaoVienDashboard .cent .left {
+    padding: 20px;
+    height: 100vh;
+    background-color: #FACA84;
+    width: 15%;
+}
+.giaoVienDashboard .cent .left .leftBottom{
+    margin-top: 280px;
+}
+.giaoVienDashboard .cent .left .leftBottom ul li{
+    background-color:#E07A5F;
+    border-radius: 20px;
+    color: #3B405D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.giaoVienDashboard .cent .left .leftBottom ul li i{
+    margin-right: 10px;
+}
+.giaoVienDashboard .cent .left .dashboard a{
+    display:block;
+    background-color:#E07A5F;
+    border-radius: 20px;
+    color: #3B405D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.giaoVienDashboard .cent .left .dashboard a i{
+    margin-right: 10px;
+}
+.giaoVienDashboard .cent .left .leftBottom ul li{
+}
+.giaoVienDashboard .cent .right {
+    width: 85%;
+}
